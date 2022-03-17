@@ -1,5 +1,5 @@
-# HyDisc
-HyDisc Link, This is a project I and T4g3d are working on to link hypixels game play activity to discord!                                                                       
-This project was made by: @NeonBladeGit and @T4g3d
+<h1>HyDisc - Hypixel And Discord Game Activity Linking!<h1/>
 
-<h1>Just started Beta!<h1/>
+<h3>HyDisc, is a python software so discord can set your game activity to what your playing on the hypixel network!<h3/>
+  <img src="concept.png">
+  
