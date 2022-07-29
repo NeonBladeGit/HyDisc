@@ -1,2 +1,3 @@
-<h1>HyDisc - Links your hypixel status to your discord status<h1/>
-https://img.shields.io/discord/952753366625316934?color=blue&label=Discord&logo=Discord&logoColor=blue&style=flat-square
+
+
+![Discord](https://img.shields.io/discord/952753366625316934?color=blue&label=Discord&logo=discord&logoColor=blue) ![GitHub top language](https://img.shields.io/github/languages/top/NeonBladeGit/HyDisc?color=red&label=100%25%20Python&logo=Python&logoColor=red)
