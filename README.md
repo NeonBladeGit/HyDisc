@@ -1,3 +1,3 @@
+<h1>HyDisc - Links hypixel status to discord!<h1/>
 
-
-![Discord](https://img.shields.io/discord/952753366625316934?color=blue&label=Discord&logo=discord&logoColor=blue) ![GitHub top language](https://img.shields.io/github/languages/top/NeonBladeGit/HyDisc?color=red&label=100%25%20Python&logo=Python&logoColor=red)
+![Discord](https://img.shields.io/discord/952753366625316934?color=blue&label=Discord&logo=discord&logoColor=blue) ![GitHub top language](https://img.shields.io/github/languages/top/NeonBladeGit/HyDisc?color=red&label=100%25%20Python&logo=Python&logoColor=red) ![APM](https://img.shields.io/apm/l/vim-mode) ![GitHub Repo stars](https://img.shields.io/github/stars/NeonDevGit/HyDisc?color=yellow&label=Git%20Stars&logo=star&logoColor=yellow&style=plastic) ![GitHub forks](https://img.shields.io/github/forks/NeonDevGit/HyDisc?style=plastic) ![GitHub watchers](https://img.shields.io/github/watchers/NeonDevGit/HyDisc?label=Watchers&style=plastic) ![GitHub all releases](https://img.shields.io/github/downloads/NeonDevGit/HyDisc/total?color=green&label=Downloads&style=plastic)
